@@ -120,8 +120,9 @@ A SQL-based project with advanced data visualization and seamless integration.
 > - Vertabelo diagrams
 
 <p align="center">
-  <img src="https://github.com/demirhanylcn/demirhanylcn/blob/main/images/gordon-ramsay.gif" alt="BoxingClub GIF" width="500"/>
+  <img src="https://github.com/demirhanylcn/demirhanylcn/blob/main/images/boxing-minions.gif" alt="ByteAndBite GIF" width="500"/>
 </p>
+
 
 ---
 
@@ -133,5 +134,5 @@ A SQL-based project with advanced data visualization and seamless integration.
 > - Vertabelo diagrams
 
 <p align="center">
-  <img src="https://github.com/demirhanylcn/demirhanylcn/blob/main/images/boxing-minions.gif" alt="ByteAndBite GIF" width="500"/>
+  <img src="https://github.com/demirhanylcn/demirhanylcn/blob/main/images/gordon-ramsay.gif" alt="BoxingClub GIF" width="500"/>
 </p>
