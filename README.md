@@ -97,13 +97,16 @@
 
 ### 📂 Featured Repositories
 
-#### 🚀 [TypeBlitz](https://github.com/demirhanylcn/TypeBlitz)
+#### 🚀 [TypeBlitz](https://github.com/demirhanylcn/TypeBlitz)  
 A fast and interactive typing trainer built using **JavaFX**.
 
-> **Features:**
-> - Multi-language support
-> - Progress tracking
-> - Adaptive difficulty
+> **Features:**  
+> - Multi-language support  
+> - Progress tracking  
+> - Adaptive difficulty  
+
+> **Tech Stack:**  
+> - JavaFX  
 
 <p align="center">
   <img src="https://github.com/demirhanylcn/demirhanylcn/blob/main/images/typing.gif" alt="TypeBlitz GIF" width="500"/>
@@ -111,28 +114,29 @@ A fast and interactive typing trainer built using **JavaFX**.
 
 ---
 
-#### 🌐 [BoxingClub](https://github.com/demirhanylcn/BoxingClub)
+#### 🌐 [BoxingClub](https://github.com/demirhanylcn/BoxingClub)  
 A SQL-based project with advanced data visualization and seamless integration.
 
-> **Tech Stack:**
-> - Oracle SQL
-> - MS-SQL
-> - Vertabelo diagrams
+> **Tech Stack:**  
+> - Oracle SQL  
+> - MS-SQL  
+> - Vertabelo diagrams  
 
 <p align="center">
-  <img src="https://github.com/demirhanylcn/demirhanylcn/blob/main/images/boxing-minions.gif" alt="ByteAndBite GIF" width="500"/>
+  <img src="https://github.com/demirhanylcn/demirhanylcn/blob/main/images/boxing-minions.gif" alt="BoxingClub GIF" width="500"/>
 </p>
-
 
 ---
 
-#### 🌐 [ByteAndBite](https://github.com/demirhanylcn/ByteAndBite)
-A SQL-based project with advanced data visualization and seamless integration.
+#### 🌐 [ByteAndBite](https://github.com/demirhanylcn/ByteAndBite)  
+A SQL-based project with modern database design and user-friendly visual elements.
 
-> **Tech Stack:**
-> - Oracle SQL
-> - Vertabelo diagrams
+> **Tech Stack:**  
+> - Oracle SQL  
+> - Vertabelo diagrams  
 
 <p align="center">
-  <img src="https://github.com/demirhanylcn/demirhanylcn/blob/main/images/gordon-ramsay.gif" alt="BoxingClub GIF" width="500"/>
+  <img src="https://github.com/demirhanylcn/demirhanylcn/blob/main/images/gordon-ramsay.gif" alt="ByteAndBite GIF" width="500"/>
 </p>
+
+---
