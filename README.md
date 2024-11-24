@@ -107,7 +107,7 @@ A fast and interactive typing trainer built using **JavaFX**.
 #### 🌐 [BoxingClub](https://github.com/demirhanylcn/BoxingClub)
 A SQL-based project with advanced data visualization and seamless integration.  
 > **Tech Stack:** Oracle SQL, MS-SQL, Vertabelo diagrams.  
-![BoxingClub](https://github.com/demirhanylcn/demirhanylcn/blob/main/images/ron-eating.gif)
+![BoxingClub](https://github.com/demirhanylcn/demirhanylcn/blob/main/images/gordon-ramsay.gif)
 
 ---
 
