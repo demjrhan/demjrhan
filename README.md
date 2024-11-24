@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently learning **Blazor, Jetpack Compose**
 
-- 💬 Ask me about **Java, SQL**
-
-- 📫 You can reach me at: [Email Me](mailto:demirhanylcn@gmail.com)
+- 📫 Feel free to [email me](mailto:demirhanylcn@gmail.com)!
 
 - 📄 Check out my experiences [here](https://github.com/demirhanylcn/demirhanylcn/blob/main/resume/Demirhan_Yalcin_Resume.pdf).
 
