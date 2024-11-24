@@ -115,7 +115,7 @@ A fast and interactive typing trainer built using **JavaFX**.
 ---
 
 #### 🌐 [BoxingClub](https://github.com/demirhanylcn/BoxingClub)  
-A SQL-based project with advanced data visualization and seamless integration.
+A SQL-based project with efficient database design and clear visualization.
 
 > **Tech Stack:**  
 > - Oracle SQL  
@@ -129,7 +129,7 @@ A SQL-based project with advanced data visualization and seamless integration.
 ---
 
 #### 🌐 [ByteAndBite](https://github.com/demirhanylcn/ByteAndBite)  
-A SQL-based project with modern database design and user-friendly visual elements.
+A SQL-based project with efficient database design and clear visualization.
 
 > **Tech Stack:**  
 > - Oracle SQL  
