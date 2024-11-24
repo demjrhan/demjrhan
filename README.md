@@ -92,3 +92,27 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=demirhanylcn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+---
+
+### 📂 Featured Repositories
+
+#### 🚀 [TypeBlitz](https://github.com/demirhanylcn/TypeBlitz)
+A fast and interactive typing trainer built using **JavaFX**.
+> **Features:** Multi-language support, progress tracking, and adaptive difficulty.  
+![TypeBlitz](https://github.com/demirhanylcn/demirhanylcn/blob/main/images/typing.gif)
+
+---
+
+#### 🌐 [BoxingClub](https://github.com/demirhanylcn/BoxingClub)
+A SQL-based project with advanced data visualization and seamless integration.  
+> **Tech Stack:** Oracle SQL, MS-SQL, Vertabelo diagrams.  
+![BoxingClub](https://github.com/demirhanylcn/demirhanylcn/blob/main/images/ron-eating.gif)
+
+---
+
+#### 🌐 [ByteAndBite](https://github.com/demirhanylcn/ByteAndBite)
+A SQL-based project with advanced data visualization and seamless integration.  
+> **Tech Stack:** Oracle SQL, Vertabelo diagrams.    
+![ByteAndBite](https://github.com/demirhanylcn/demirhanylcn/blob/main/images/boxing-minions.gif)
+
