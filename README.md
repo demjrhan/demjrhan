@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Blazor, Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://github.com/demirhanylcn](https://github.com/demirhanylcn)
-
 - 💬 Ask me about **Java, SQL**
 
 - 📫 How to reach me **demirhanylcn@gmail.com**
@@ -14,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/demirhan yalçın" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="demirhan yalçın" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/demirhan yalçın](https://www.linkedin.com/in/demirhan-yal%C3%A7%C4%B1n-a24b7a255/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="demirhan yalçın" height="30" width="40" /></a>
 <a href="https://instagram.com/demjrhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demjrhan" height="30" width="40" /></a>
 </p>
 
