@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **Java, SQL**
 
-- 📫 How to reach me **demirhanylcn@gmail.com**
+- 📫 How to reach me = **demirhanylcn@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/demirhanylcn/demirhanylcn/blob/main/resume/Demirhan_Yalcin_Resume.pdf](https://github.com/demirhanylcn/demirhanylcn/blob/main/resume/Demirhan_Yalcin_Resume.pdf)
+- 📄 Know about my experiences [here](https://github.com/demirhanylcn/demirhanylcn/blob/main/resume/Demirhan_Yalcin_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
