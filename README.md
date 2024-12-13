@@ -10,7 +10,7 @@
 ### 🌟 About Me
 
 - 💻 A full-stack developer passionate about building impactful solutions.
-- 🌱 Currently learning **Blazor** and **Jetpack Compose**.
+- 🌱 Currently learning  **Jetpack Compose**.
 - 📫 Feel free to [email me](mailto:demirhanylcn@gmail.com)!
 - 📄 Check out my experiences [here](https://github.com/demirhanylcn/demirhanylcn/blob/main/resume/Demirhan_Yalcin_Resume.pdf).
 
