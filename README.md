@@ -12,7 +12,7 @@
 - 💻 A full-stack developer passionate about building impactful solutions.
 - 🌱 Currently learning  **Jetpack Compose**.
 - 📫 Feel free to [email me](mailto:demirhanylcn@gmail.com)!
-- 📄 Check out my resume [here](https://github.com/demirhanylcn/demirhanylcn/blob/main/resume/Demirhan_Yalcin_Resume.pdf).
+- 📄 Check out my resume [here](https://github.com/demirhanylcn/demirhanylcn/blob/main/resume/Resume-Demirhan_Yalcin.pdf).
 
 ---
 
