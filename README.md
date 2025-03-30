@@ -1,11 +1,6 @@
 <h1 align="center">Hi there, I'm Demirhan Yalçın! 👋</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=demirhanylcn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
 
 ### 🌟 About Me
 
@@ -22,10 +17,6 @@
   <a href="https://www.linkedin.com/in/demjrhan/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/demjrhan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
@@ -38,10 +29,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=demjrhan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-### 📂 Featured Repositories
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
