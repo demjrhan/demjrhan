@@ -8,6 +8,7 @@
 - 🌱 Currently learning  **Jetpack Compose**.
 - 📫 Feel free to [email me](mailto:demirhanylcn@gmail.com)!
 - 📄 Check out my resume [here](https://github.com/demirhanylcn/demirhanylcn/blob/main/resume/Resume-Demirhan_Yalcin.pdf).
+- Check out my portfolio website [here](https://demjrhan.github.io/portfolio/)
 
 ---
 
