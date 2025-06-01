@@ -1,7 +1,7 @@
 # Demirhan Yalçın 
 
 I'm a Full-Stack Developer based in **Warsaw, Poland**, currently studying at **PJATK (Polish-Japanese Academy of Information Technology)**.  
-I enjoy building end-to-end solutions — from designing clean frontends to crafting solid backends.
+I enjoy building end-to-end solutions; from designing clean frontends to crafting solid backends.
 
 Always curious, always learning.
 
