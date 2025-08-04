@@ -1,7 +1,8 @@
 # Demirhan Yalçın 
 
-I'm a Full-Stack Developer based in **Warsaw, Poland**, currently studying at **PJATK (Polish-Japanese Academy of Information Technology)**.  
-I enjoy building end-to-end solutions; from designing clean frontends to crafting solid backends.
+I'm a QA Engineer in training based in Warsaw, Poland, currently studying at **PJATK** (Polish-Japanese Academy of Information Technology).
+With a foundation in software development through academic projects and self-learning, I'm now focused on manual and automation testing.
+I'm learning to ensure software quality through structured test cases, bug reporting, and test automation using tools like Selenium, Java, and Jira.
 
 Always curious, always learning.
 
