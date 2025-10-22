@@ -1,6 +1,6 @@
 # Demirhan Yalçın 
 
-I'm a QA Engineer in training based in Warsaw, Poland, currently studying at **PJATK** (Polish-Japanese Academy of Information Technology).
+I'm a Junior Quality Assurance Engineer based in Warsaw, Poland, currently studying at **PJATK** (Polish-Japanese Academy of Information Technology).
 With a foundation in software development through academic projects and self-learning, I'm now focused on manual and automation testing.
 
 Always curious, always learning.
